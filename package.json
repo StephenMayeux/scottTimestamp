@@ -1,0 +1,10 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Free Code Camp assignment for Back End Certificate",
+  "author": "Stephen Mayeux",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
